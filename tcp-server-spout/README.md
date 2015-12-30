@@ -15,8 +15,8 @@ Simple storm tutorial in which spout acts like a TCP server.
    mvn package
 ```
 
-### Authors
-* [Chandan Gaur](https://github.com/gaurchandan)
+### Contributors
+ * [Chandan Gaur](https://github.com/gaurchandan)
 
 ### License           
 Copyright &copy; 2016 Xenon DigiLabs LLP. All rights reserved.
