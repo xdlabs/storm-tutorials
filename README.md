@@ -1,17 +1,20 @@
-# Storm Tutorials
+Storm Tutorials
+===============
 Collection of tutorials on Apache Storm for beginners.
 
 ------------------------------------------------------
 
-### Tutorials
-
+Tutorials
+---------
  * [TCP Server Spout](tcp-server-spout/)
 
 
-### Contributors
+Authors
+-------
  * Chandan Gaur ([@gaurchandan](https://github.com/gaurchadnan))
  * Abhay Arora ([@itsstark](https://github.com/itsstark))
 
-### License
+License
+-------
 Copyright &copy; 2016 Xenon DigiLabs LLP. All rights reserved.
 Licensed under the [MIT License](LICENSE).
