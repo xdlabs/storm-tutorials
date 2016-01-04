@@ -1,5 +1,5 @@
-Storm Tutorials
-===============
+Apache Storm Tutorials
+======================
 Collection of tutorials on Apache Storm for beginners.
 
 ------------------------------------------------------
