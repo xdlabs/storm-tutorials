@@ -1,0 +1,5 @@
+com/example/stormdemo/VowelsCount/resources/Resources.class
+com/example/stormdemo/VowelsCount/resources/MyServerSocket.class
+com/example/stormdemo/VowelsCount/bolt/WordCountBolt.class
+com/example/stormdemo/VowelsCount/spout/SetenceSpout.class
+com/example/stormdemo/VowelsCount/WordCountTopology.class
