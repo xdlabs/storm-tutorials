@@ -3,6 +3,12 @@ Simple storm tutorial in which spout acts like a TCP server.
 
 -------------------------------------------------------------
 
+### Instructions
+* Download tutorial sources.
+~~~
+  git clone https://github.com/xdlabs/storm-tutorials.git
+~~~
+
 ### Authors
 * [Chandan Gaur](https://github.com/gaurchandan)
 
