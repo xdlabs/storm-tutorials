@@ -1,11 +1,1 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-# storm-tutorials
-=======
-storm-tutorials
-===============
->>>>>>> f1cab4c063a2650f93ecb9b67117d24dff44366e
-=======
-storm-tutorials
-===============
->>>>>>> f1cab4c063a2650f93ecb9b67117d24dff44366e
+Simple Storm Tutorial in which spout is acting like a TCP server.
