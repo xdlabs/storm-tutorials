@@ -1,4 +1,4 @@
-package com.example.stormdemo.VowelsCount.spout;
+package com.xenondigilabs.tutorials.stormTutorials.tcpServerSpout.spout;
 
 import java.io.BufferedReader;
 import java.io.InputStream;

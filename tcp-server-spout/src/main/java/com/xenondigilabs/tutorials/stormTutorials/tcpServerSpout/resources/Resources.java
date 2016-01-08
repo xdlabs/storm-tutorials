@@ -1,4 +1,4 @@
-package com.example.stormdemo.VowelsCount.resources;
+package com.xenondigilabs.tutorials.stormTutorials.tcpServerSpout.resources;
 
 import java.io.IOException;
 import java.io.InputStream;

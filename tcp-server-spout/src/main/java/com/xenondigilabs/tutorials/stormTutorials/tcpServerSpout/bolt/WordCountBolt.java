@@ -1,11 +1,11 @@
-package com.example.stormdemo.VowelsCount.bolt;
+package com.xenondigilabs.tutorials.stormTutorials.tcpServerSpout.bolt;
 
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.PrintWriter;
 import java.net.Socket;
 
-import com.example.stormdemo.VowelsCount.resources.Resources;
+import com.xenondigilabs.tutorials.stormTutorials.tcpServerSpout.resources.Resources;
 
 import backtype.storm.topology.BasicOutputCollector;
 import backtype.storm.topology.OutputFieldsDeclarer;

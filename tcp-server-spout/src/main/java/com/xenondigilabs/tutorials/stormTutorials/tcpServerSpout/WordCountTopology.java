@@ -1,11 +1,11 @@
-package com.example.stormdemo.VowelsCount;
+package com.xenondigilabs.tutorials.stormTutorials.tcpServerSpout;
 
-import com.example.stormdemo.VowelsCount.bolt.WordCountBolt;
-import com.example.stormdemo.VowelsCount.spout.SetenceSpout;
 
 import backtype.storm.Config;
 import backtype.storm.LocalCluster;
 import backtype.storm.topology.TopologyBuilder;
+import com.xenondigilabs.tutorials.stormTutorials.tcpServerSpout.bolt.WordCountBolt;
+import com.xenondigilabs.tutorials.stormTutorials.tcpServerSpout.spout.SetenceSpout;
 
 public class WordCountTopology {
 	private static final int NO_OF_SPOUTS = 3;
