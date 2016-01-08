@@ -7,11 +7,11 @@ Simple storm tutorial in which spout acts like a TCP server.
 
  * Clone this repository
 ```
-   git clone https://github.com/xdlabs/xak.git
+   git clone https://github.com/xdlabs/storm-tutorials.git
 ``` 
  * Build sources using Maven3
 ```
-   cd  xak
+   cd  storm-tutorials/tcp-server-spout/
    mvn package
 ```
 
